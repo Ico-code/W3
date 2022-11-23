@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+  color: white;
+}
+h1 {
+  font-size: 20px;
+}
+p {
+  font-size: 12px;
+}
+.ClassForDiv {
+  border: dotted 2px;
+  width: 100px;
+  height: 100px;
+}
+ol {
+  list-style: upper-alpha;
+}
+ul {
+  list-style: square;
+}
